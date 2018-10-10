@@ -2,10 +2,10 @@
 A 3D Car Racing Game in OpenGl
 
 <ul>
-  <ol>The program is made with Codeblocks in Windows 10 and to execute the program OpneGl and glut should be installed properly and configured with CodeBlocks.</ol>
-  <ol>After installing glut in Windows, open 3D car Racing Game in Code Blocks.</ol>
-  <ol>Build and then run the solution.</ol>
-  <ol>3D_Car_Racing.cpp is the main source C++ file.</ol> 
+ <ol>1. The program is made with Codeblocks in Windows 10 and to execute the program OpneGl and glut should be installed properly and configured with CodeBlocks.</ol>
+ <ol>2. After installing glut in Windows, open 3D car Racing Game in Code Blocks.</ol>
+ <ol>3. Build and then run the solution.</ol>
+ <ol>4. 3D_Car_Racing.cpp is the main source C++ file.</ol> 
 </ul>
 This are the Controls:
 
