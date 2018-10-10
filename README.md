@@ -9,11 +9,11 @@ A 3D Car Racing Game in OpenGl
 </ul>
 This are the Controls:
 
-<ul>
-  <li>"^" to accelerate.</li>
-  <li>"V" to decelerate.</li>
-  <li>">" to go right.</li>
-  <li>"<" to go left.</li>
-  <li>"d" day Mode.</li>
-  <li>"n" night Mode.</li>
+ <ul>
+  <li> "^" to accelerate.</li>
+  <li> "V" to decelerate.</li>
+  <li> ">" to go right.</li>
+  <li> "<" to go left.</li>
+  <li> "d" day Mode.</li>
+  <li> "n" night Mode.</li>
 </ul>
